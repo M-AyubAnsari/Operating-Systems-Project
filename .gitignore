@@ -1,0 +1,13 @@
+# Archives and temporary files
+*.zip
+*.tmp
+test_deleted_db.sqlite
+test_app_data/
+__pycache__/
+*.pyc
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.bak

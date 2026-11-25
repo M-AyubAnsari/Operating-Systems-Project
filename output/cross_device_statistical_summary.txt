@@ -1,0 +1,44 @@
+====================================================================
+       CROSS-DEVICE HARDWARE VALIDATION & STATISTICAL SUMMARY       
+       Compiled by: Mahad Khan Khoso                                
+       Target: Persistence of Sensitive Data on Physical Android    
+====================================================================
+
+DEVICE 1: REDMI_13_HYPEROS (Operator: AYUB)
+ - Total Trials Executed:       100
+ - Positive Control Pass Rate:  100.0% (100/100)
+ - Mean Launch Latency (T_l):   22.65 ms
+ - Mean Setup Latency (T_s):    23.53 ms
+ - Mean Plain Cleanup (T_c):    8.56 ms
+ - Mean Secure Wipe (T_c):      16.65 ms
+ - HOME Process Alive Rate:     0.0% (0/20)
+
+DEVICE 2: SAMSUNG_GALAXY_1 (Operator: AYUB)
+ - Total Trials Executed:       100
+ - Positive Control Pass Rate:  100.0% (100/100)
+ - Mean Launch Latency (T_l):   28.66 ms
+ - Mean Setup Latency (T_s):    16.41 ms
+ - Mean Plain Cleanup (T_c):    6.18 ms
+ - Mean Secure Wipe (T_c):      10.30 ms
+ - HOME Process Alive Rate:     0.0% (0/20)
+
+DEVICE 3: SAMSUNG_GALAXY_2 (Operator: AYUB)
+ - Total Trials Executed:       100
+ - Positive Control Pass Rate:  100.0% (100/100)
+ - Mean Launch Latency (T_l):   24.00 ms
+ - Mean Setup Latency (T_s):    13.57 ms
+ - Mean Plain Cleanup (T_c):    5.38 ms
+ - Mean Secure Wipe (T_c):      10.64 ms
+ - HOME Process Alive Rate:     0.0% (0/20)
+
+DEVICE 4: RASHAD_ANDROID (Operator: RASHAD)
+ - Total Trials Executed:       100
+ - Positive Control Pass Rate:  100.0% (100/100)
+ - Mean Launch Latency (T_l):   26.59 ms
+ - Mean Setup Latency (T_s):    22.32 ms
+ - Mean Plain Cleanup (T_c):    9.17 ms
+ - Mean Secure Wipe (T_c):      17.67 ms
+ - HOME Process Alive Rate:     0.0% (0/20)
+
+Total Master Compiled Trials: 400
+Cross-device compilation complete and ready for final report formatting.
